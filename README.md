@@ -2,6 +2,9 @@
 
 Breast cancer is the most common cancer among women worldwide, accounting for a significant portion of all cancer cases. This project utilizes machine learning techniques to classify tumors as **malignant** (cancerous) or **benign** (non-cancerous), leveraging the Breast Cancer Wisconsin (Diagnostic) Dataset. Through this project, we aim to simplify and enhance the process of cancer diagnosis by developing highly accurate predictive models.  
 
+![Breast Cancer Awareness](./breast_cancer.png)
+
+
 ---
 
 ## Table of Contents  
